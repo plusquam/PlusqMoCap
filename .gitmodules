@@ -1,0 +1,6 @@
+[submodule "PlusqMoCap_HW"]
+	path = PlusqMoCap_HW
+	url = git@github.com:plusquam/PlusqMoCap_HW.git
+[submodule "PlusqMoCap_SW"]
+	path = PlusqMoCap_SW
+	url = git@github.com:plusquam/PlusqMoCap_SW.git
