@@ -4,3 +4,6 @@
 [submodule "PlusqMoCap_SW"]
 	path = PlusqMoCap_SW
 	url = git@github.com:plusquam/PlusqMoCap_SW.git
+[submodule "PlusqMoCap_Dongle"]
+	path = PlusqMoCap_Dongle
+	url = git@github.com:plusquam/PlusqMoCap_Dongle.git
