@@ -7,3 +7,6 @@
 [submodule "PlusqMoCap_Dongle"]
 	path = PlusqMoCap_Dongle
 	url = git@github.com:plusquam/PlusqMoCap_Dongle.git
+[submodule "PlusqMoCap_ROS"]
+	path = PlusqMoCap_ROS
+	url = git@github.com:plusquam/PlusqMoCap_ROS.git
